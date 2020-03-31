@@ -1,0 +1,1 @@
+main=mapM putStrLn[until((>"=").drop 29)(' ':)$init$do y<-[0..2*x];shows(x^2+y)$max"+"['='|y==x]|x<-[1..9]]

@@ -1,0 +1,1 @@
+m@main=do l<-readLn;print$0^sum[1|(n,c)<-zip[1..]l,n*c<sum(take n l)];m

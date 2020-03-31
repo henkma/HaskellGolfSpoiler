@@ -1,0 +1,1 @@
+main=putStr[c|y<-[1..400],c<-shows[x|x<-[1..y],mod y x<1]"\n",c<'[']

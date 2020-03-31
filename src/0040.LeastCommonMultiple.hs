@@ -1,0 +1,1 @@
+m@main=getLine>>=print.foldr(lcm.read)1.words>>m

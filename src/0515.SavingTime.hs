@@ -1,0 +1,1 @@
+main=interact(\l->do x<-"h21d0g011a0m0110o311a0m011d0g01h4";["o\nxoo\nmho\nmoh"!!(read[x]+div(read[l!!1])3*4)|x<'9']++do['a'..x];" ")

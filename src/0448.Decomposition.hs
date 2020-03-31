@@ -1,0 +1,1 @@
+m@main=do x<-readLn;print$round$sqrt(2*x+1)-1;m

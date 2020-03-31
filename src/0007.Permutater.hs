@@ -1,0 +1,1 @@
+main=interact(\x->unlines[y|y<-mapM(\_->x)x,all(`elem`y)x])

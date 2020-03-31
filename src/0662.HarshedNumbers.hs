@@ -1,0 +1,1 @@
+main=mapM print[x|x<-[1..2000],x`mod`sum[read[c]|c<-show x]<1]

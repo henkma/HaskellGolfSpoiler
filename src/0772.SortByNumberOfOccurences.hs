@@ -1,0 +1,1 @@
+m@main=do l<-getLine;putStrLn[c|c<-l,x<-[0..20],sum[1|d<-l,d/=c]==x];m

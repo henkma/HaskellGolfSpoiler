@@ -1,0 +1,1 @@
+m@main=getLine>>=putStrLn.unwords.map(:[])>>m

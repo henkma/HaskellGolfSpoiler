@@ -1,0 +1,1 @@
+main=interact$unlines.scanl1(\x->init.init.(++' ':x)).lines

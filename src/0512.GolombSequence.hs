@@ -1,0 +1,1 @@
+main=mapM print[round$1.2*x**0.6184|x<-[1..300]]

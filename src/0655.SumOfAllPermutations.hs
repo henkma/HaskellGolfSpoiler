@@ -1,0 +1,1 @@
+m@main=do l<-getLine;print$sum(11:[211|l>"1"])*sum[read[c]|c<-l];m

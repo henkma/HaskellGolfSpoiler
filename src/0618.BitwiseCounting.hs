@@ -1,0 +1,1 @@
+main=mapM putStrLn$mapM(:"1")"00000000"

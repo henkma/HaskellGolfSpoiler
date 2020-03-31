@@ -1,0 +1,1 @@
+main=mapM(putStrLn.do g<-gcd;max(map("FizzBuzz"!!)[6-2*g 303..2+g 5]).show)[1..]

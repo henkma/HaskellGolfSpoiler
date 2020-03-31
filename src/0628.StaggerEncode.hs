@@ -1,0 +1,1 @@
+m@main=getLine>>=putStrLn.foldr((.reverse).(:))"">>m

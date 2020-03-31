@@ -1,0 +1,1 @@
+main=mapM(\n->getLine>>=putStrLn.shows n.(' ':))[1..]

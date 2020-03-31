@@ -1,0 +1,1 @@
+main=mapM(print.abs.read)$mapM(min"210".(:"12"))"02020"

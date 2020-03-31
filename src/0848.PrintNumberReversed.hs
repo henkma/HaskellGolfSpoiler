@@ -1,0 +1,1 @@
+main=mapM(print.abs.read.reverse.show)[1..25]

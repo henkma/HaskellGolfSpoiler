@@ -1,0 +1,1 @@
+main=putStr$"3."++([114..213]>>=tail.show)

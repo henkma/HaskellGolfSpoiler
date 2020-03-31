@@ -1,0 +1,1 @@
+main=print$div(sum$scanl(div.(*490))(2^691)[1..3^7])$2^684

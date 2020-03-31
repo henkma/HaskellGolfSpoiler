@@ -1,0 +1,1 @@
+main=do x<-readLn;print$mod(49-x*35)163

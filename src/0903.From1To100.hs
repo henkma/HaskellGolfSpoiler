@@ -1,0 +1,1 @@
+main=mapM print[1..100]

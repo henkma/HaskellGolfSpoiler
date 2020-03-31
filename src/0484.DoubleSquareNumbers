@@ -1,0 +1,2 @@
+main=f[4..314]
+f(a:b)=print(a^2)>>f[x|x<-b,mod x a>0,mod(2^x)x>3]

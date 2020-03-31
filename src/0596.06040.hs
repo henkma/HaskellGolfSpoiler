@@ -1,0 +1,1 @@
+main=mapM(\n->print$2*n^3+3*n^2+n)[0..99]

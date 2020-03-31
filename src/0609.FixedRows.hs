@@ -1,0 +1,1 @@
+m@main=mapM(\_->getChar)[0..8]>>=putStrLn>>m

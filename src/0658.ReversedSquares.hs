@@ -1,0 +1,1 @@
+main=mapM print[x|x<-[1..104409],elem x[read$reverse$show$y^2|y<-[1..999]]]

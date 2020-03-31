@@ -1,0 +1,1 @@
+m@main=do l<-readLn;x<-readLn;print$foldr(\a b->[sum$drop(n-a)$take(n+1)b|n<-[0..]])[1]l!!x;m

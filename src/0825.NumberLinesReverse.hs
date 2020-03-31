@@ -1,0 +1,1 @@
+main=mapM(\x->getLine>>=putStrLn.reverse.(++' ':show x))[1..]

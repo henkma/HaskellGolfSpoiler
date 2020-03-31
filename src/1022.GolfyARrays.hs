@@ -1,0 +1,1 @@
+main=readLn>>=print.div 6.last

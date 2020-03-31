@@ -1,0 +1,1 @@
+main=interact(\l->do y<-"3210";foldr(\x s->['*'|x>y]++min(x:s)s)"\n"l)

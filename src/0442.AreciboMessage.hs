@@ -1,0 +1,1 @@
+m@main=mapM(\_->(".#"!!).read.pure<$>getChar)[1..23]>>=putStrLn>>m

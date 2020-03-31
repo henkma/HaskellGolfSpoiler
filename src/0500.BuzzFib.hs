@@ -1,0 +1,1 @@
+main=mapM putStrLn[max(["Buzz"|gcd 5x>2]++["Fib"|elem(toEnum$x+34)"#$%'*/7DY{"]>>=id)$show x|x<-[1..100]]

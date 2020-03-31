@@ -1,0 +1,1 @@
+m@main=getLine>>=putStrLn.f.words>>m;f[a,b,c]|read a<read b/1=b|c/="0"=c|0<1=a

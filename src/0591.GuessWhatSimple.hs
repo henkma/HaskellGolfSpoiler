@@ -1,0 +1,1 @@
+main=mapM(putStrLn.take 8.tail.show.(11+5e-7+).sin)[0..99]

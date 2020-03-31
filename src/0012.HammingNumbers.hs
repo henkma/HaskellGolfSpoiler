@@ -1,0 +1,1 @@
+main=readLn>>=mapM print.(`take`[x|x<-[1..],mod(60^9)x<1])

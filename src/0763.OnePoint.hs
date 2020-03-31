@@ -1,0 +1,1 @@
+main=mapM print[x|(x,0)<-zip[1..1784]$mapM(:[0])[1..8]>>=snd.span(>0)]

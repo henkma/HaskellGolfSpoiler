@@ -1,0 +1,1 @@
+m@main=do l<-getLine;putStrLn$l++" = "++cycle[l,"2 * 3",l,"2^3 * 3^2 * 5","2^2 * 3^3 * 89 * 14713"]!!length l;m

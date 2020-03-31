@@ -1,0 +1,1 @@
+main=do x<-readLn;mapM print[y|y<-[1..x::Int],mod x y<1]

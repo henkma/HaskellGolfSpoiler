@@ -1,0 +1,1 @@
+main=mapM print$scanl(+)1[4,6..196]

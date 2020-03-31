@@ -1,0 +1,1 @@
+m@main=readLn>>=print.round.(+3).sqrt>>m

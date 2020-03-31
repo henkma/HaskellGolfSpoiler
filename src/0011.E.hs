@@ -1,0 +1,1 @@
+main=print$sum$36:scanl div(10^100)[1..99]

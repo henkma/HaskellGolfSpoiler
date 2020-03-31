@@ -1,0 +1,1 @@
+m@main=do x<-getLine;putStrLn$x++1`drop`reverse x;m

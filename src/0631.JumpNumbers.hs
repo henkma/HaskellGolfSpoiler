@@ -1,0 +1,1 @@
+main=interact$(>>=f"0").lines;f(a:b)l|elem a b=a:"\n"|0<1=f(l!!read[a]:a:b)l

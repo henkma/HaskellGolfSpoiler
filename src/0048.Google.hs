@@ -1,0 +1,1 @@
+main=interact(\x->'g':([1..read x]>>"o")++"gle")
